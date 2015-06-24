@@ -1,0 +1,35 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:widget="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent" 
+     android:background="#333333"
+    android:layout_height="fill_parent" android:clipChildren="false">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" 
+        android:clipChildren="false" 
+        
+       
+        >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:padding="5dp"
+            android:text="          "
+            
+            android:textSize="28sp" />
+
+        <com.zq.tv.HListView
+            android:id="@+id/group" 
+                         android:layout_width="fill_parent"
+            android:focusableInTouchMode="true"
+            android:layout_height="50dp" />
+  
+
+    </LinearLayout>
+
+</ScrollView>
