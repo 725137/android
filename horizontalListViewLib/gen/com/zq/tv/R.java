@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package com.example.customer;
+package com.zq.tv;
 
 public final class R {
     public static final class attr {
@@ -104,7 +104,7 @@ containing a value of this type.
            <tr><td><code>{@link #HorizontalListView_android_divider android:divider}</code></td><td></td></tr>
            <tr><td><code>{@link #HorizontalListView_android_fadingEdgeLength android:fadingEdgeLength}</code></td><td></td></tr>
            <tr><td><code>{@link #HorizontalListView_android_requiresFadingEdge android:requiresFadingEdge}</code></td><td></td></tr>
-           <tr><td><code>{@link #HorizontalListView_dividerWidth com.example.customer:dividerWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #HorizontalListView_dividerWidth com.zq.tv:dividerWidth}</code></td><td></td></tr>
            </table>
            @see #HorizontalListView_android_divider
            @see #HorizontalListView_android_fadingEdgeLength
@@ -133,7 +133,7 @@ containing a value of this type.
         */
         public static final int HorizontalListView_android_requiresFadingEdge = 2;
         /**
-          <p>This symbol is the offset where the {@link com.example.customer.R.attr#dividerWidth}
+          <p>This symbol is the offset where the {@link com.zq.tv.R.attr#dividerWidth}
           attribute's value can be found in the {@link #HorizontalListView} array.
 
 
@@ -145,7 +145,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.example.customer:dividerWidth
+          @attr name com.zq.tv:dividerWidth
         */
         public static final int HorizontalListView_dividerWidth = 3;
     };

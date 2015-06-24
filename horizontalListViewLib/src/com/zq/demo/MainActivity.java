@@ -3,13 +3,9 @@ package com.zq.demo;
 import android.app.Activity;
 import android.graphics.Color;
 import android.os.Bundle;
-import android.view.View;
-import android.view.View.OnClickListener;
-import android.widget.Button;
-import android.widget.TextView;
 
-import com.example.customer.R;
 import com.zq.tv.HListView;
+import com.zq.tv.R;
 
 public class MainActivity extends Activity {
 

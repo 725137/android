@@ -5,8 +5,6 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Queue;
 
-import com.example.customer.R;
-
 import android.annotation.SuppressLint;
 import android.annotation.TargetApi;
 import android.content.Context;

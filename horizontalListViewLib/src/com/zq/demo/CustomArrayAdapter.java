@@ -1,14 +1,13 @@
 package com.zq.demo;
 
-import com.example.customer.R;
-
 import android.content.Context;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.view.ViewGroup.LayoutParams;
 import android.widget.ArrayAdapter;
 import android.widget.TextView;
+
+import com.zq.tv.R;
 
 /**
  * An array adapter that knows how to render views when given CustomData classes
