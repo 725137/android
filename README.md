@@ -9,5 +9,5 @@ Android Tv 盒子应用中的水平ListView控件，根据方向盘左右改变�
 4.实现控件复用机制，永远不会oom
 
 演示图如下:(请耐心等待图片加载,有点慢)
-![image](https://github.com/725137/android/blob/master/15142.gif)
+![image](https://github.com/725137/android/blob/master/1514.gif)
 
